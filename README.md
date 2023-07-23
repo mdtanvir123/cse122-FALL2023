@@ -1,2 +1,7 @@
-# cse122-FALL2023
-This is an OOP Lab Repository 
+Name : Md Tanvir
+
+Id : 22235103055
+
+Intake : 51
+
+Section : 02
