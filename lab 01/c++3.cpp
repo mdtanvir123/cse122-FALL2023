@@ -14,7 +14,7 @@ int main()
             cout<<"x value is even "<<endl;
             if(x>999&x<1000)
             {
-                cout<<"x value contain 1 digits"<<endl;
+                cout<<"x value contain 4 digits"<<endl;
             }
         }
     }
